@@ -5,6 +5,10 @@
 Dynablast, Dynamic Analysis of Plates Submitted to Blast Load,  is a software developed in computational language MATLAB. The program can calculates the plate's behavior when it is submitted to blast load, considered tha membrane effect. Avaliating the structure when is submitted a explosion will be possible the engineer to protect this structure to possible colapse. Another applications is in military structures, aeronautic and platforms structures, where solicitations like explosion are a reality.
 Because of this, Dynablast was developed to facilitate the analysis in displacements, strain and stress in the middle of the plate (common analysis) and DAF (dynamic amplification factor), variation of the TNT mass and distance can be possible like advanced analysis.
 
+## Methodology
+
+All explanation and methodology about blast wave (definitions and formulations), theory of thin plates and mathematical solution, you can see in [http://www.labbas.eng.uerj.br/pgeciv/nova/files/dissertacoes/179.pdf]. This file is Master's thesis and this study is about a dynamic in plates considered membrane effect (i.e, nonlinearity) submitted to blast load. Dynablast was based on all theory off thin plates and blast wave formulations.
+
 ## Software
 
 The software opens a window with some input data about the structure and the solicitation in plate. It is importante to explanate that in this program, the structure considered is a linear elastic plate. About the load, is necessaire to know the TNT's characteristics or informations about the experimental data. Finally, which type of analysis the user choose. Based on this, all the informations that are necessaire:
@@ -107,3 +111,14 @@ Using "Advanced Analysis" button, based on which case the user choosed, a one ty
 <p>
  <b>Figure 9:</b> Dynablast - Advanced Analysis. Case 6: t<sub>d</sub> / T<sub>NL</sub> x DAF
 </p>
+
+## Informations About the Software
+Rio de Janeiro State University
+
+Faculty of Engineering
+
+Developer: Ana Waldila de Queiroz Ramiro Reis
+
+Professors: Rodrigo Bird Burgos and Maria Fernanda Figueiredo de Oliveira
+
+Contact: anawaldila@hotmail.com
