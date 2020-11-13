@@ -72,3 +72,38 @@ Using "Advanced Analysis" button, based on which case the user choosed, a one ty
 <p>
  <b>Figure 4:</b> Dynablast - Advanced Analysis. Case 2: W<sub>TNT</sub> x u<sub>L</sub> / u<sub>z</sub>
 </p>
+
+<div>
+<img src="Figures/Dyna - 06.png" width="50%">
+</div>
+<p>
+ <b>Figure 5:</b> Dynablast - Advanced Analysis. Case 3: t<sub>d</sub> / T<sub>L</sub> x DAF
+</p>
+
+<div>
+<img src="Figures/Dyna - 07.png" width="50%">
+</div>
+<p>
+ <b>Figure 6:</b> Dynablast - Advanced Analysis. Case 4: t<sub>d</sub> / T<sub>L</sub> x u<sub>z</sub> / h
+</p>
+
+<div>
+<img src="Figures/Dyna - 08.png" width="50%">
+</div>
+<p>
+ <b>Figure 7:</b> Dynablast - Advanced Analysis. Case 5: t<sub>d</sub> / T<sub>NL</sub> x u<sub>z</sub> / h
+</p>
+
+<div>
+<img src="Figures/Dyna - 09.png" width="50%">
+</div>
+<p>
+ <b>Figure 8:</b> Dynablast - Advanced Analysis. Case 6: u<sub>z</sub> / h x &sigma;<sub>m</sub> / (&sigma;<sub>m</sub> + &sigma;<sub>b</sub>)
+</p>
+
+<div>
+<img src="Figures/Dyna - 10.png" width="50%">
+</div>
+<p>
+ <b>Figure 9:</b> Dynablast - Advanced Analysis. Case 6: t<sub>d</sub> / T<sub>NL</sub> x DAF
+</p>
