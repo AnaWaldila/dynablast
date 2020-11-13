@@ -50,10 +50,25 @@ When the user choose to click in button "Dynamic Analysis", a input data is pres
 <img src="Figures/Dyna - 02.png" width="100%">
 </div>
 
-
 <div>
 <img src="Figures/Dyna - 03.png" width="100%">
 </div>
 <p>
  <b>Figure 2:</b> Dynablast - Results
+</p>
+
+Using "Advanced Analysis" button, based on which case the user choosed, a one type is ploted. Next, all cases ploted with the input data show in Figure 1.
+
+<div>
+<img src="Figures/Dyna - 04.png" width="50%">
+</div>
+<p>
+ <b>Figure 3:</b> Dynablast - Advanced Analysis. Case 1: Z x u<sub>z</sub> / h
+</p>
+
+<div>
+<img src="Figures/Dyna - 05.png" width="50%">
+</div>
+<p>
+ <b>Figure 4:</b> Dynablast - Advanced Analysis. Case 2: W<sub>TNT</sub> x u<sub>L</sub> / u<sub>z</sub>
 </p>
