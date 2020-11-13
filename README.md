@@ -112,6 +112,8 @@ Using "Advanced Analysis" button, based on which case the user choosed, a one ty
  <b>Figure 9:</b> Dynablast - Advanced Analysis. Case 6: t<sub>d</sub> / T<sub>NL</sub> x DAF
 </p>
 
+All this examples was considered the membrane's boundary condition immovable. The user can be generate their own analysis with another type of boundary condition. It is important to explanate that graphics in "Advanced Analysis" can also be exported to Excel, i.e., all data that generated all grafics.
+
 ## Informations About the Software
 Rio de Janeiro State University
 
