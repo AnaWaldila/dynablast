@@ -189,18 +189,27 @@ This software was developed by Ana W. Q. R. Reis and with the supervision of Rod
 ## References
 
 Friedlander, F.G. The diffraction of sound pulses I. Diffraction by a semi-infinite plane. Communicated by G. I. Taylor, F.R.S., 1940.
+
 Granström, S.A. Loading characteristics of fair blasts from detonating charges. Technical Report 100, Transactions of the Royal Institute of Technology, Stockholm, 1956
+
 Reis, A.W.Q.R. Dynamic analysis of plates subjected to blast load. M. Sc. Dissertation (in Portuguese), Rio de Janeiro State University, Brazil, 2019.
+
 Reis, A.W.Q.R., Burgos, R.B., Oliveira, M.F.F. Nonlinear Dynamic Analysis of Plates Subjected to Explosive Loads. Latin American Journal of Solids and Structures, v. 19, 2022.
+
 Rigby, S.E. and Tyas, A. (2014) Blast.m. CMD Group, University of Sheffield.
+
 Rigby, S. E., Andrew, T., Bennett, T., Clarke, S. D., Fay, S. D. The Negative Phase of the Blast Load. International Journal of Protective Structures 5(1):1-19, 2013.
 
 
 ## Information about the Software
 
 Rio de Janeiro State University
+
 Faculty of Engineering
+
 Developer: Ana Waldila de Queiroz Ramiro Reis
+
 Professors: Rodrigo Bird Burgos and Maria Fernanda Figueiredo de Oliveira
+
 Contact: anawaldila@hotmail.com
 
