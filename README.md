@@ -136,7 +136,7 @@ Clicking on the "Advanced Analysis" button, based on which case the user chose, 
 <img src="Figures/DYNA - 11.png" width="50%">
 </div>
 <p>
- <b>Figure 11:</b> DYNAblast - Advanced Analysis. Case 6: t<sub>d</sub> / T<sub>NL</sub> x DAF
+ <b>Figure 11:</b> DYNAblast - Advanced Analysis. Case 7: t<sub>d</sub> / T<sub>NL</sub> x DAF
 </p>
 
 All these examples considered the membrane’s boundary condition as immovable. The users can generate their own analysis with another type of boundary condition.
