@@ -40,7 +40,7 @@ TNT
 * Type of Explosion: Spherical or Hemispherical;
 * Characteristics: total mass (kg), scalar distance (kg/m1/3), maximum overpressure (Pa), maximum underpressure (Pa), positive phase time (s), positive phase impulse (Pa.s), negative phase impulse (Pa.s). It is important to understand, based on which database is chosen by the user, some pieces of information about the blast wave's characteristics are not necessary.
 
-In addition, about “Data Base”: if the user chooses the option “experimental data”, the labels “Total Mass (kg)” and “Scalar Distance Z (kg/m1/3)” are unable for edit, because the equation is based on the curve by Friendlader + Granstrom (see Rigby et al. (2013), Reis (2019), Reis et al (2022)). Naturally, if the user chooses Reis’s calibration and Rigby’s calibrations, other TNT characteristics are not editable, and “Total Mass (kg)” and “Scalar Distance Z (kg/m1/3)” are enabled.
+In addition, about “Data Base”: if the user chooses the option “experimental data”, the labels “Total Mass (kg)” and “Scaled Distance Z (kg/m1/3)” are unable for edit, because the equation is based on the curve by Friendlader + Granstrom (see Rigby et al. (2013), Reis (2019), Reis et al (2022)). Naturally, if the user chooses Reis’s calibration and Rigby’s calibrations, other TNT characteristics are not editable, and “Total Mass (kg)” and “Scalar Distance Z (kg/m1/3)” are enabled.
 Reis’s calibration and Rigby’s calibration are developed by Reis (2019) and Rigby et al. (2013), respectively, which is a characterization of all curves in the abacus presented in the US Department of Defense (2007).
 Finally, the algorithm used in “Rigby’s calibration” is from Rigby and Tyas (2014). 
 
